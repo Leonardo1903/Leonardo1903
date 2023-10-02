@@ -1,11 +1,10 @@
 <!--Headline-->
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+ There+I+am+Leonardo+Fernandes;++;Computer+Science+Student,;Full-Stack+Developer,;CTF+Newbie,;Love+to+learn+new+things..<3"></a>
-</p>
+<h3 align="left">Hi There. I am Leonardo Fernandes</h3>
 <!--About Me-->
 <h3 align="left">About Me:</h3>
 <p>
-&nbsp;I'm currently studying Computer Science and Mathematics at Vit Bhopal University.\
-&nbsp;I'm Interested in Cybersecurity and Blockchain \
+&nbsp;I'm currently studying Computer Science at Vit Bhopal University.\
+&nbsp;I'm Interested in Cybersecurity, Blockchain, and Web Development \
 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 &nbsp;In my free time, I listen to music.\
 </p>
@@ -37,13 +36,10 @@ Backend:
 <!--Connect-->
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://linkedin.com/in/leonardo-fernandes-548b12251"><img src="https://img.shields.io/badge/-Leonardo%20Fernandes-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:leonardoschoolwork@gmail.com"><img src="https://img.shields.io/badge/-leonardoschoolwork@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/leonardo_fernandes04"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+
 </p>
 
 
