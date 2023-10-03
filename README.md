@@ -5,7 +5,7 @@
 <p>
 -I'm currently studying Computer Science at Vit Bhopal University.<br>
 -I'm Interested in Cybersecurity, Blockchain, and Web Development <br>
--I like to explore new technologies and develop software solutions and quick hacks.\<br>
+-I like to explore new technologies and develop software solutions and quick hacks.<br>
 -In my free time, I listen to music.<br>
 </p>
 <!--Skills-->
