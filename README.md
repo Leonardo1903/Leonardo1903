@@ -1,13 +1,13 @@
 <!--Headline-->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+There+I+am+Leonardo+Fernandes;Computer+Science+Student,;Full-Stack+Web+Developer,;Cybersecurity+Major<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+There+I+am+Leonardo+Fernandes;Computer+Science+Student,;Full-Stack+Web+Developer,;Cybersecurity+and+Blochain Enthusiast"></a>
 </p>
 <!--About Me-->
 <h3 align="left">About Me:</h3>
 <p>
 -I'm currently studying Computer Science at Vit Bhopal University.<br>
 -I'm Interested in Cybersecurity, Blockchain, and Web Development <br>
--I like to explore new technologies and develop software solutions and quick hacks.<br>
+-I like to explore new technologies and come up with the best possible solution to solve problems.<br>
 -In my free time, I listen to music.<br>
 </p>
 <!--Skills-->
