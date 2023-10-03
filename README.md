@@ -1,5 +1,7 @@
 <!--Headline-->
-<h3 align="left">Hi There. I am Leonardo Fernandes</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+There+I+am+Leonardo+Fernandes;Computer+Science+Student,;Full-Stack+Web+Developer,;Cybersecurity+Major<3"></a>
+</p>
 <!--About Me-->
 <h3 align="left">About Me:</h3>
 <p>
@@ -9,8 +11,9 @@
 -In my free time, I listen to music.<br>
 </p>
 <!--Skills-->
-<h3 align="left">Skills:</h3>
-<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<table>
+  <tr>
+    <td><h3 align="left">Skills:</h3>
 Core:
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -41,14 +44,25 @@ Backend:
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-</p>
+</p></td>
+    <td><img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></td>
+  </tr>
+</table>
+
 <!--Analytics-->
 <h3 align="left">Github Analytics:</h3>
 <p align="center">
 <a href="https://github.com/Leonardo1903">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Leonardo1903&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Leonardo1903&layout=compact&langs_count=8&theme=algolia"/>
+<table>
+  <tr>
+    <td><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Leonardo1903&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width=100% ></td>
+    <td><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Leonardo1903&layout=compact&langs_count=8&theme=algolia" width=100% ></td>
+  </tr>
+</table>
 </a>
+</p>
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leonardo1903&theme=algolia" height=auto width=100%"  />  
 </p>
 <!--Connect-->
 <h3 align="left">Connect with me:</h3>
