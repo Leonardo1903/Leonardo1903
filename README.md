@@ -1,6 +1,7 @@
 <!--Headline-->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+There+I+am+Leonardo+Fernandes;Computer+Science+Student,;Full-Stack+Web+Developer,;Cybersecurity+and+Blochain Enthusiast"></a>
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+There+I+am+Leonardo+Fernandes;Computer+Science+Student,;Full-Stack+Web+Developer,;Cybersecurity+and+Blochain+Enthusiast"></a> -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07FDA0&width=435&lines=Hi+There+I+am+Leonardo+Fernandes;Computer+Science+Student,;Cybersecurity+Lover,;Full-Stack+Web+Developer,;Blockchain+Enthusiast" alt="Typing SVG" /></a>
 </p>
 <!--About Me-->
 <h3 align="left">About Me:</h3>
