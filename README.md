@@ -1,6 +1,5 @@
 <!--Headline-->
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+There+I+am+Leonardo+Fernandes;Computer+Science+Student,;Full-Stack+Web+Developer,;Cybersecurity+and+Blochain+Enthusiast"></a> -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07FDA0&width=435&lines=Hi+There+I+am+Leonardo+Fernandes;Computer+Science+Student,;Cybersecurity+Lover,;Full-Stack+Web+Developer,;Blockchain+Enthusiast" alt="Typing SVG" /></a>
 </p>
 <!--About Me-->
@@ -67,9 +66,10 @@ Backend:
 </p>
 <!--Connect-->
 <h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/leonardo-fernandes-548b12251"><img src="https://img.shields.io/badge/-Leonardo%20Fernandes-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:leonardoschoolwork@gmail.com"><img src="https://img.shields.io/badge/-leonardoschoolwork@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/leonardo_fernandes04"><img src="https://img.shields.io/badge/-leonardo_fernandes04-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<p align="left"> 
+<a href="https://www.codepen.io/@LeonardoFernandes1903" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a>
+<a href="https://www.dev.to/Leonardo1903" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> 
+<a href="https://www.github.com/Leonardo1903" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
+<a href="https://www.linkedin.com/in/Leonardo Fernandes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> 
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Leonardo1903" alt="akhilgkrishnan" /> </p>
