@@ -1,6 +1,6 @@
 <!--Headline-->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07FDA0&width=435&lines=Hi+There+I+am+Leonardo+Fernandes;Computer+Science+Student,;Cybersecurity+Lover,;Full-Stack+Web+Developer,;Blockchain+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07FDA0&width=435&lines=Hi+There+I+am+Leonardo+Fernandes;Computer+Science+Student,;Passionate+About+Cybersecurity,;Full-Stack+Web+Developer,;Blockchain+Enthusiast." alt="Typing SVG" /></a>
 </p>
 <!--About Me-->
 <h3 align="left">About Me:</h3>
