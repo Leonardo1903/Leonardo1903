@@ -1,14 +1,14 @@
 <!--Headline-->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07FDA0&width=435&lines=Hi+There+I+am+Leonardo+Fernandes;Computer+Science+Student,;Passionate+About+Cybersecurity,;Full-Stack+Web+Developer,;Blockchain+Enthusiast." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07FDA0&width=435&lines=Hi+There+I+am+Leonardo+Fernandes;Computer+Science+Student,;Full-Stack+Web+Developer,;Blockchain+Enthusiast,;Passionate+About+Web3 Security." alt="Typing SVG" /></a>
 </p>
 <!--About Me-->
 <h3 align="left">About Me:</h3>
 <p>
 -I'm currently studying Computer Science at Vit Bhopal University.<br>
--I'm Interested in Cybersecurity, Blockchain, and Web Development <br>
+-I'm Interested in Web Development, Blockchain , and Web3 Security <br>
 -I like to explore new technologies and come up with the best possible solution to solve problems.<br>
--In my free time, I listen to music.<br>
+-In my free time, I listen to music and watch sports.<br>
 </p>
 <!--Skills-->
 <table>
