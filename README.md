@@ -6,7 +6,7 @@
 <h3 align="left">About Me:</h3>
 <p>
 -I'm currently studying Computer Science at Vit Bhopal University.<br>
--I'm Interested in Web Development, Blockchain , and Web3 Security <br>
+-I'm Interested in Web Development, Blockchain, and Web3 Security <br>
 -I like to explore new technologies and come up with the best possible solution to solve problems.<br>
 -In my free time, I listen to music and watch sports.<br>
 </p>
