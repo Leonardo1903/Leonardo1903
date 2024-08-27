@@ -32,7 +32,6 @@ Frontend:
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="36" height="36" alt="TailwindCSS"></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="36" height="36" alt="React" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="36" height="36" alt="NextJs" /></a>
 </p>
 Backend:
@@ -40,11 +39,23 @@ Backend:
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Appwrite.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Appwrite.svg" width="36" height="36" alt="Appwrite" /></a>
+<a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="36" height="36" alt="GraphQL" /></a>
-</p></td>
-    <td><img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></td>
+</p>
+Devops:
+<p align="left">
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" width="36" height="36" alt="Kubernetes" /></a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" width="36" height="36" alt="Grafana" /></a>
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg" width="36" height="36" alt="Prometheus" /></a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" width="36" height="36" alt="Jenkins" /></a>
+<a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg" width="36" height="36" alt="Github Actions" /></a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Dark.svg" width="36" height="36" alt="Terraform" /></a>
+</p>
+</td>
+    <td><img align="right" top="500" height="400" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></td>
   </tr>
 </table>
 
