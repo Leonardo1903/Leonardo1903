@@ -74,6 +74,9 @@ Devops:
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leonardo1903&theme=algolia" height=auto width=100%"  />  
 </p>
+
+![trophy](https://github-trophy.vercel.app/?username=leonardo1903&theme=monokai)
+
 <!--Connect-->
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
@@ -82,6 +85,7 @@ Devops:
 <a href="https://www.dev.to/Leonardo1903" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DevTo-Dark.svg" width="32" height="32" />
 </a>
 <a href="mailto:leonardofernandes3419@gmail.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="32" height="32"></a>
+
   
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Leonardo1903" alt="akhilgkrishnan" /> </p>
