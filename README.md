@@ -65,17 +65,17 @@ Devops:
 <a href="https://github.com/Leonardo1903">
 <table>
   <tr>
-    <td><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Leonardo1903&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width=100% ></td>
-    <td><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Leonardo1903&layout=compact&langs_count=8&theme=algolia" width=100% ></td>
+    <td><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Leonardo1903&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" width=100% ></td>
+    <td><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Leonardo1903&layout=compact&langs_count=8&theme=monokai" width=100% ></td>
   </tr>
 </table>
 </a>
 </p>
+<img src="https://github-trophy.vercel.app/?username=leonardo1903&theme=monokai" />
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leonardo1903&theme=algolia" height=auto width=100%"  />  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leonardo1903&theme=monokai" height=auto width=100%"  />  
 </p>
 
-![trophy](https://github-trophy.vercel.app/?username=leonardo1903&theme=monokai)
 
 <!--Connect-->
 <h3 align="left">Connect with me:</h3>
