@@ -82,6 +82,7 @@ Devops:
 <p align="left"> 
 <a href="https://twitter.com/Leonardo_0304"><img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="32" height="32"></a>
 <a href="https://www.linkedin.com/in/leonardofernandes1903/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="32" height="32" /></a>
+<a href="https://medium.com/@LeonardoFernandes1903" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a>                                                                                                                                                                                                      
 <a href="https://www.dev.to/Leonardo1903" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DevTo-Dark.svg" width="32" height="32" />
 </a>
 <a href="mailto:leonardofernandes3419@gmail.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="32" height="32"></a>
