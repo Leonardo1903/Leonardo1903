@@ -17,11 +17,11 @@
 Languages & Tools:
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" width="36" height="36" alt="C++" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="36" height="36" alt="VSCode" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=js" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="36" height="36" alt="Git" /></a>
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=solidity" width="36" height="36" alt="Solidity" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" width="36" height="36" alt="VSCode" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=postman" width="36" height="36" alt="Postman" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma" width="36" height="36" alt="figma" /></a>
 </p>
