@@ -81,7 +81,7 @@ Devops:
 <!--Connect-->
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-<a href="https://twitter.com/Leonardo_0304"><img src="https://go-skill-icons.vercel.app/api/icons?i=twitter" width="32" height="32"></a>
+<a href="https://twitter.com/Leonardo_3419"><img src="https://go-skill-icons.vercel.app/api/icons?i=twitter" width="32" height="32"></a>
 <a href="https://www.linkedin.com/in/leonardofernandes1903/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="32" height="32" /></a>
 <a href="https://medium.com/@LeonardoFernandes1903" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a>                                                                                                                                                                                                      
 <a href="https://www.dev.to/Leonardo1903" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=devto" width="32" height="32" />
