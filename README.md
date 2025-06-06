@@ -56,8 +56,18 @@ Devops:
 <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=ghactions" width="36" height="36" alt="Github Actions" /></a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=terraform" width="36" height="36" alt="Terraform" /></a>
 </p>
+Others:
+<p align="left">
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" width="36" height="36" alt="Langchain" /></a>
+<a href="https://www.crewai.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=crewai" width="36" height="36" alt="CrewAI" /></a>
+<a href="https://qdrant.tech/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=qdrant" width="36" height="36" alt="Qdrant" /></a>
+<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=hardhat" width="36" height="36" alt="Hardhat" /></a>
+<a href="https://getfoundry.sh/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=foundry" width="36" height="36" alt="Foundry" /></a>
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=ethereum" width="36" height="36" alt="Ethereum" /></a>
+<a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=solana" width="36" height="36" alt="Solana" /></a>
+</p>
 </td>
-    <td><img align="right" top="500" height="400" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></td>
+    <td><img align="right" top="500" height="500" width="500" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></td>
   </tr>
 </table>
 
