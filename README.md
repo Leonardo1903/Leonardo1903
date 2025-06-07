@@ -30,7 +30,7 @@ Frontend:
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=html" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=css" width="36" height="36" alt="CSS3" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" width="36" height="36" alt="TailwindCSS"></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="36" height="36" alt="React" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="36" height="36" alt="ReactJs" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=redux" width="36" height="36" alt="Redux" /></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=next" width="36" height="36" alt="NextJs" /></a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative" width="36" height="36" alt="React-Native" /></a>
@@ -39,15 +39,17 @@ Frontend:
 Backend:
 <p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=expressjs" width="36" height="36" alt="Express" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=expressjs" width="36" height="36" alt="ExpressJs" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" width="36" height="36" alt="FastApi" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongo" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=appwrite" width="36" height="36" alt="Appwrite" /></a>
 <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" width="36" height="36" alt="Supabase" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=gql" width="36" height="36" alt="GraphQL" /></a>
 </p>
 Devops:
 <p align="left">
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws" width="36" height="36" alt="AWS" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="36" height="36" alt="Docker" /></a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=k8s" width="36" height="36" alt="Kubernetes" /></a>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=grafana" width="36" height="36" alt="Grafana" /></a>
@@ -61,6 +63,7 @@ Others:
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" width="36" height="36" alt="Langchain" /></a>
 <a href="https://www.crewai.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=crewai" width="36" height="36" alt="CrewAI" /></a>
 <a href="https://qdrant.tech/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=qdrant" width="36" height="36" alt="Qdrant" /></a>
+<a href="https://neo4j.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=neo4j" width="36" height="36" alt="neo4j" /></a>
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=hardhat" width="36" height="36" alt="Hardhat" /></a>
 <a href="https://getfoundry.sh/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=foundry" width="36" height="36" alt="Foundry" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=ethereum" width="36" height="36" alt="Ethereum" /></a>
