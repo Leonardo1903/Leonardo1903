@@ -40,11 +40,11 @@ Backend:
 <p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=expressjs" width="36" height="36" alt="ExpressJs" /></a>
+<a href="https://hono.dev/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=hono" width="36" height="36" alt="HonoJs" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" width="36" height="36" alt="FastApi" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongo" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=appwrite" width="36" height="36" alt="Appwrite" /></a>
-<a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" width="36" height="36" alt="Supabase" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=gql" width="36" height="36" alt="GraphQL" /></a>
 </p>
 Devops:
